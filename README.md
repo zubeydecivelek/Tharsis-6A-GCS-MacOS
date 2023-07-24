@@ -1,4 +1,4 @@
-# gcs_deneme
+# Tharsis-6A-GCS
 
 A new Flutter project.
 
